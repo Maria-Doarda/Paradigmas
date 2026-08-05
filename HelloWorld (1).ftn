@@ -1,0 +1,18 @@
+program tabuada
+	IMPLICIT NONE
+	INTEGER :: n, i 
+	PRINT *, "Digite um número inteiro:"
+	READ *, n 
+
+	Do i = 1, 10
+		PRINT *, n, " x ", i, " = ", n * i
+	END DO
+end program tabuada
+
+https://www.glassdoor.com.br/Vaga/fort-belvoir-programmer-fortran-vagas-SRCH_IL.0,12_IC1130362_KO13,31.htm
+
+VAGA: Internacional (Chantily, VA)
+FAIXA SALARIAL (por ano):
+Mínimo: 90000 USD
+Máximo: 150000 USD
+PARADIGMAS: Imperativo
