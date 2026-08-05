@@ -1,0 +1,10 @@
+program tabuada
+	IMPLICIT NONE
+	INTEGER :: n, i 
+	PRINT *, "Digite um número inteiro:"
+	READ *, n 
+
+	Do i = 1, 10
+		PRINT *, n, " x ", i, " = ", n * i
+	END DO
+end program tabuada
